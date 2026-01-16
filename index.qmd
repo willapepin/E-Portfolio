@@ -1,5 +1,5 @@
 ---
-title: "My E-Portfolio"
+title: "E-Portfolio - Willa Pepin"
 image: images/MGEM_logo.png
 about:
   template: trestles
@@ -7,16 +7,13 @@ about:
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://ca.linkedin.com/in/willa-pepin-7217012a8
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/willapepin
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:wnpepin@student.ubc.ca
 ---
 
 Hey there people,
