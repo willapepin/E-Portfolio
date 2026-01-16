@@ -2,7 +2,7 @@
 title: "E-Portfolio Willa Pepin"
 image: images/wp_row.jpeg
 about:
-  template: pulse
+  template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
