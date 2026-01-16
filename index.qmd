@@ -1,5 +1,5 @@
 ---
-title: "E-Portfolio: Willa Pepin"
+title: "E-Portfolio Willa Pepin"
 image: images/wp_row.jpeg
 about:
   template: trestles
